@@ -165,6 +165,22 @@ npm run preview -- --host
 
 ---
 
+## Screenshots
+
+![Login](./screenshots/renewable-login.png)
+
+---
+
+![Register](./screenshots/renewable-register.png)
+
+---
+
+![Dashboard](./screenshots/renewable-dashboard.png)
+
+---
+
+![Comparison](./screenshots/renewable-comparison.png)
+
 ## Summary
 
 You can either run the app using local development commands listed above or use the Docker Compose setup, which encapsulates both frontend and backend services.
